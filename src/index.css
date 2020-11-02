@@ -41,6 +41,9 @@ body {
   height: 20px;
   transform: translate(-50%, 50%);
 }
+
+/* Rotating img animation and it stopping when paused */
+
 .img-container img {
   border-radius: 50%;
   object-fit: cover;
